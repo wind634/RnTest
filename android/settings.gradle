@@ -1,0 +1,3 @@
+rootProject.name = 'RnIosTest'
+
+include ':app'
